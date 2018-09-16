@@ -1,2 +1,5 @@
 bin
 obj
+coverage-html
+coverage.json
+coverage.hits

@@ -6,4 +6,8 @@
     <RootNamespace>minicover_lab</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <DotNetCliToolReference Include="MiniCover" Version="2.0.0-ci-20180729170656" />
+  </ItemGroup>
+
 </Project>
